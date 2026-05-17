@@ -1,0 +1,6 @@
+{
+  "name": "Masjid Halimatul Amin",
+  "description": "Aplikasi Islami Terpadu: Jadwal Sholat, Al-Qur'an, Doa, dan Tasbih Digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
